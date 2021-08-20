@@ -3,7 +3,7 @@ A Small but powerful Valorant Account Manager
 
 
 ## THIS IS CURRENTLY IN DEVELOPMENT
-If you want to get access, please contact me on the [Support Discord](https://discord.gg/huXRjC3Hxv)
+If you want to get access, please contact me on the [Support Discord](https://discord.gg/huXRjC3Hxv).
 
 ## Screenshots
 ### Main Page
